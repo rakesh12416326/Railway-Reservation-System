@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240114
+# Name: rakesh s
+# Date: 24-08-2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/6bdef181-eb27-4cc5-9bed-9d04ee8b06de" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/77e97939-2b33-4cc7-a62c-b133910ae4db" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1917" height="1020" alt="Screenshot 2026-08-24 101242" src="https://github.com/user-attachments/assets/f5d53e2b-8f56-453a-8295-0e1c82e450c9" />
 
 
 
@@ -78,7 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/5283392f-6a82-4fd8-be80-5819524fb2ee" />
 
 
 
@@ -97,6 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/846512e2-3951-41c9-a2d6-b9dec13d431f" />
 
 
 
@@ -106,6 +110,7 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+<img width="1917" height="1025" alt="image" src="https://github.com/user-attachments/assets/42007e1e-71d9-4186-a74a-4e4761fed22c" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
