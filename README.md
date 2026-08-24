@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:212225240015
-# Name:ASWINI D
-# Date:22-08-2026
+# Reg No:
+# Name:
+# Date:
 
 
 # AIM:
